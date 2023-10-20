@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SofDev16
-- 👀 I’m interested in frontend development 
+- 👀 I’m interested in backend development 
 - 🌱 I’m a current graduate
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me .. powelldelonte@gmail.com
