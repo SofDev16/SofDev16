@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SofDev16
-- 👀 I’m interested in backend development 
+- 👋 Hi, I’m Delonte Powell
+- 👀 I’m interested in frontend development 
 - 🌱 I’m a current graduate
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me .. powelldelonte@gmail.com
+- 💞️ Looking for frontend/full-stack engineering positions
+- 📫 powelldelonte@gmail.com
 
 <!---
 SofDev16/SofDev16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
