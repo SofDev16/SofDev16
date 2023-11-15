@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Delonte Powell
 - 👀 I’m interested in backend engineering  
 - 🌱 I’m a current graduate
-- 💞️ Looking for frontend/full-stack engineering positions
+- 💞️ Looking for backend/full-stack engineering positions
 - 📫 powelldelonte@gmail.com
 
 <!---
