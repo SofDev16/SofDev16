@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m SofDev16!
 
-<!--
-**SofDev16/SofDev16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud Engineer** | AI • Machine Learning • DevOps  
+☁️ Always keeping up with the latest in cloud tech  
+⛳ Golf enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm a passionate Cloud Engineer with a love for building scalable solutions and diving into the latest trends in cloud computing. Whether it's optimizing DevOps workflows, experimenting with machine learning, or automating deployments of applications and infrastructure, I thrive on pushing the boundaries of what's possible in tech.
+
+- 💡 **Cloud Trends:** I stay on the cutting edge of cloud platforms and services.
+- 🛠️ **Tech Stack:** JavaScript, Python, CI/CD, Docker, Kubernetes, Azure, AWS, GCP.
+- 🤖 **Machine Learning:** Automating insights and solving real-world problems.
+- 🏌️ **Off the Clock:** You’ll find me on the golf course working on my swing!
+
+---
+
+### 📫 Let’s Connect
+
+Feel free to reach out if you want to talk cloud, code, or golf!
+
+---
+
+*Fun fact: I can optimize your cloud and your golf swing!*
