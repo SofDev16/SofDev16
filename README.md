@@ -1,24 +1,23 @@
 # 👋 Hi, I’m SofDev16!
 
-**Cloud Network Engineer** | Azure• Machine Learning • DevOps  
+**Cloud Network Engineer** 
 ☁️ Always keeping up with the latest in cloud tech  
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate Cloud Network Engineer with a love for building scalable solutions and diving into the latest trends in cloud computing. Whether it's optimizing DevOps workflows, experimenting with machine learning, or automating deployments of applications and infrastructure, I thrive on pushing the boundaries of what's possible in tech.
 
-- 💡 **Cloud Trends:** I stay on the cutting edge of cloud platforms and services.
-- 🤖 **Machine Learning:** Automating insights and solving real-world problems.
+I am an aspiring Azure Cloud Engineer with a background in cybersecurity. I enjoy building secure cloud infrastructures, automating workflows with DevOps, and exploring AI & Machine Learning.
+
+## Skills
+- **Cloud & DevOps:** Azure, Terraform, GitHub Actions, CI/CD
+- **Programming:** Python, JavaScript, Node.js
+- **Databases:** Azure SQL, BigQuery
+- **Tools:** VS Code, Azure CLI, Git, Docker
 - 🏌️ **Off the Clock:** You’ll find me on the golf course working on my swing!
 
 ---
 
-### 📫 Let’s Connect
-
-Feel free to reach out if you want to talk cloud!!
-
 ---
-
 *Fun fact: I can optimize your cloud and your golf swing!*
