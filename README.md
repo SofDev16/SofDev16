@@ -8,13 +8,16 @@
 ### 🚀 About Me
 
 
-I am an aspiring Azure Cloud Engineer with a background in cybersecurity. I enjoy building secure cloud infrastructures, automating workflows with DevOps, and exploring AI & Machine Learning.
+I build secure, scalable Azure infrastructure using Terraform & DevOps practices to enable cloud‑native business services.
 
 ## Skills
 - **Cloud & DevOps:** Azure, Terraform, GitHub Actions, CI/CD
 - **Programming:** Python, JavaScript, Node.js
 - **Databases:** Azure SQL, BigQuery
 - **Tools:** VS Code, Azure CLI, Git, Docker
+  
+
+## Personal Interests
 - 🏌️ **Off the Clock:** You’ll find me on the golf course working on my swing!
 
 ---
